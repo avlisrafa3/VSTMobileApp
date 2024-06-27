@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/vacationsave"
+        android:title="Save Vacation"
+        android:textStyle="bold"/>
+    <item
+        android:id="@+id/vacationdelete"
+        android:title="Delete Vacation"
+        android:textStyle="bold"/>
+    <item
+        android:id="@+id/notify1"
+        android:orderInCategory="100"
+        android:title="Notify"
+        android:textStyle="bold"/>
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share"
+        android:textStyle="bold"/>
+</menu>

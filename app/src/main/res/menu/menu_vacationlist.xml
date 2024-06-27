@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/report"
+        android:textColorLink="#254FF3"
+        android:textStyle="bold"
+        android:title="Generate Report" />
+</menu>
